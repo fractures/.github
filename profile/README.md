@@ -1,12 +1,18 @@
-## Hi there 👋
+<img src="https://fractures.dev/images/share.png" height="200" width="400" alt="Fractures icon" />
 
-<!--
+# fractures
 
-**Here are some ideas to get you started:**
+## Functional CSS, but only the good parts.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Fractures helps you create resilient design-systems and rapid prototypes by providing a set of non-blocking utility classes.
+
+---
+
+## Goals
+
+- Atomic
+- Framework agnostic
+- No UI
+- Fast in every way
+- Manageable cognitive load
+- Small footprint
