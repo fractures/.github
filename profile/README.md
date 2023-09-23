@@ -1,6 +1,6 @@
 # Fractures
 
-Fractures is a collection of low level styling utilities that makes building product more resilient, composable and scalable. Only the good parts.
+Fractures is a collection of low level styling utilities that makes products more resilient, composable and scalable. Only the good parts.
 
 - Atomic
 - Framework agnostic
